@@ -110,9 +110,11 @@ body {
 }
 
 .presentacion__imagen {
-  width: 50%;
+  width: 25%;
 }
-
+.img_about{
+  width: 25%;
+}
 @media (max-width: 1200px) {
     
     .header__menu {
